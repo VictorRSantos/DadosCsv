@@ -1,0 +1,6 @@
+id,nome_cliente,nome_pacote,data_nascimento,data_atendimento,cidade_estado
+1,Luis,TV+Internet,1990-01-20,2023-01-01,São Paulo/SP
+2,Marco,Internet,1992-09-26,2023-02-01,Rio de Janeiro/RJ
+3,Ana,TV+Internet+Telefone,2023-02-01,2023-02-01,Belo Horizonte/MG
+4,Cristina,Internet,1990-01-28,2023-02-01,Natal/RN
+5,Roberto,TV+Internet,1970-07-07,2023-03-01,Salvador/BA
